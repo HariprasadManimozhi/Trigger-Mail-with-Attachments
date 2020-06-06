@@ -1,4 +1,4 @@
-## Trigger multiple e-mails with corresponding attachments from table/database
+# Trigger multiple e-mails with corresponding attachments from table/database
 
 ## Objective:
 Emails have to be sent to the multiple receivers with their corresponding attachments in the mails.
